@@ -1,8 +1,7 @@
-﻿
-##Task#
+Task
 Implement an equity order component in C#
 
-##Requirements##
+Requirements
 1. Build a concrete implementation of the IEquityOrder
 2. It will receive all ticks (price updates for equities) from an external tick source via the
 ReceiveTick method
